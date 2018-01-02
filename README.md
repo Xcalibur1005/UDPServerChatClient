@@ -11,7 +11,7 @@ Server Usage:
 Client Usage:
 	python client.py -u username -sip server_ip -sp server_portnumber
 	
-	user1$ python ChatClient.py -u Alice -sip server-ip -sp 9090
+	user$ python ChatClient.py -u Alice -sip server-ip -sp 9090
 	+> Prompt message from user
 	+> list 
 	<– Signed In Users: Bob, Carole
